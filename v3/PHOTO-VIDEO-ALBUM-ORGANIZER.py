@@ -25,6 +25,8 @@ class main:
             steps_done = 0
             for root, folders, files in os.walk(location):
                 for file in files:
+                    """
+                    """
                     steps_done += 1
                     percent = steps_done / steps
                     self.ff.progress_bar_value_set(percent*100)
