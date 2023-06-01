@@ -1,0 +1,3 @@
+New files location > D:\Users\Vlad\Desktop\New folder
+My photo-album location > D:\Users\Vlad\Pictures\Photo Albums\Feldfix
+My video-album location > D:\Users\Vlad\Videos\Video Album\Feldfix
