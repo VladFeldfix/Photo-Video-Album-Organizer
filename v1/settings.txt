@@ -1,2 +1,0 @@
-settings_one:5
-settings_two:4
