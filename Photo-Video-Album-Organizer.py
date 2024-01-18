@@ -1,3 +1,4 @@
+# Download SmartConsole.py from: https://github.com/VladFeldfix/Smart-Console/blob/main/SmartConsole.py
 from SmartConsole import *
 import os
 from datetime import datetime
@@ -7,10 +8,10 @@ class main:
     # constructor
     def __init__(self):
         # load smart console
-        self.sc = SmartConsole("Photo Video Album Organizer", "5.0")
+        self.sc = SmartConsole("Photo Video Album Organizer", "1.0")
 
         # set-up main memu
-        self.sc.main_menu["RUN"] = self.run
+        self.sc.add_main_menu_item("RUN", self.run)
 
         # get settings
         self.get_settings()
