@@ -1,5 +1,5 @@
-(['D:\\Users\\Vlad\\Projects\\Applications\\Photo-Video-Album-Organizer\\Photo-Video-Album-Organizer.py'],
- ['D:\\Users\\Vlad\\Projects\\Applications\\Photo-Video-Album-Organizer'],
+(['D:\\Users\\Vlad\\Projects\\Applicationss\\Photo-Video-Album-Organizer\\Photo-Video-Album-Organizer.py'],
+ ['D:\\Users\\Vlad\\Projects\\Applicationss\\Photo-Video-Album-Organizer'],
  ['codecs'],
  ['C:\\Users\\HP '
   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
@@ -35,7 +35,7 @@
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
    'PYSOURCE'),
   ('Photo-Video-Album-Organizer',
-   'D:\\Users\\Vlad\\Projects\\Applications\\Photo-Video-Album-Organizer\\Photo-Video-Album-Organizer.py',
+   'D:\\Users\\Vlad\\Projects\\Applicationss\\Photo-Video-Album-Organizer\\Photo-Video-Album-Organizer.py',
    'PYSOURCE')],
  [('multiprocessing.popen_spawn_posix',
    'C:\\Users\\HP '
@@ -573,6 +573,18 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
+   'PYMODULE'),
   ('getpass',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getpass.py',
@@ -600,18 +612,6 @@
   ('http.cookiejar',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\cookiejar.py',
-   'PYMODULE'),
-  ('_py_abc',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
-   'PYMODULE'),
-  ('stringprep',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
    'PYMODULE'),
   ('PIL.ExifTags',
    'C:\\Users\\HP '
@@ -1848,6 +1848,6 @@
  [],
  [],
  [('base_library.zip',
-   'D:\\Users\\Vlad\\Projects\\Applications\\Photo-Video-Album-Organizer\\build\\Photo-Video-Album-Organizer\\base_library.zip',
+   'D:\\Users\\Vlad\\Projects\\Applicationss\\Photo-Video-Album-Organizer\\build\\Photo-Video-Album-Organizer\\base_library.zip',
    'DATA')],
  [])
